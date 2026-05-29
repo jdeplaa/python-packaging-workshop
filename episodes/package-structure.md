@@ -20,23 +20,26 @@ After following this episode, learners will be able to:
 ::::::::::::::::::::::::::::::::::::: challenge 
 
 ## Challenge 1: Can you do it?
+
 Please indicate which essential file(s) are missing in the following Python package structure:
 ```
    README.md
    src/mypackage/hello.py
    pyproject.toml
 ```
-::::::::::::::::::::::::::::::::::::::::::::::::
-
 :::::::::::::::::::::::: solution 
 
-## Answer
+### Answer
  
 ```output
-`src/mypackage/__init__.py`. Bonus points for `LICENSE`, `CHANGELOG`, `doc` directory with documentation.
+`src/mypackage/__init__.py`.
+Bonus points for `LICENSE`, `CHANGELOG`,
+`doc` directory with documentation.
 ```
 
 :::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 ## Challenge 2: 
@@ -47,9 +50,9 @@ print('Hello World!')
 ```
 Where would you save the hello.py file for this program?
 
-:::::::::::::::::::::::::::::::::::::::::::::::
-
 :::::::::::::::::::::::: solution 
+
+### Answer 
 
 ```
 def hello_world():
@@ -59,6 +62,8 @@ def hello_world():
 Save it in ``src/mypackage/hello.py``.
 
 :::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::
 
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
