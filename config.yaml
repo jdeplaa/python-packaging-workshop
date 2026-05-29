@@ -69,6 +69,7 @@ contact: 'j.de.plaa@sron.nl' # FIXME
 episodes: 
 - introduction.md
 - virtualenv.md
+- package-structure.md
 
 # Information for Learners
 learners: 
