@@ -67,6 +67,9 @@
     <loc>https://jdeplaa.github.io/python-packaging-workshop/instructor/reference.html</loc>
   </url>
   <url>
+    <loc>https://jdeplaa.github.io/python-packaging-workshop/instructor/virtualenv.html</loc>
+  </url>
+  <url>
     <loc>https://jdeplaa.github.io/python-packaging-workshop/instructor-notes.html</loc>
   </url>
   <url>
@@ -83,5 +86,8 @@
   </url>
   <url>
     <loc>https://jdeplaa.github.io/python-packaging-workshop/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://jdeplaa.github.io/python-packaging-workshop/virtualenv.html</loc>
   </url>
 </urlset>
