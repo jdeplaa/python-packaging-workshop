@@ -5,7 +5,7 @@ site: sandpaper::sandpaper_site
 This lesson teaches software packaging.
 
 
-### Learning Objectives
+## Learning Objectives
 After following this lesson, learners will be able to:
   
 #### Pre-packaging concepts
@@ -23,3 +23,10 @@ After following this lesson, learners will be able to:
 #### Post-packaging
 * Define a strategy to deal with user support
 * Manage expectations of support
+
+## Prerequisites
+
+- Be familiar with the programming language we're using
+- Know how to open a terminal and work with the command line
+- Know how to install software packages on your system
+- Know your way around in GitHub and/or GitLab
