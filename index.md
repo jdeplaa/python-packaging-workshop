@@ -5,9 +5,10 @@ site: sandpaper::sandpaper_site
 This lesson teaches software packaging.
 
 
-## Learning Objectives
+::: objectives
+
 After following this lesson, learners will be able to:
-  
+
 #### Pre-packaging concepts
 * Define a standard structure for your project
 * Define the interface for your user
@@ -23,6 +24,8 @@ After following this lesson, learners will be able to:
 #### Post-packaging
 * Define a strategy to deal with user support
 * Manage expectations of support
+
+:::
 
 ## Prerequisites
 
