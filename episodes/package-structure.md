@@ -4,12 +4,6 @@ teaching: 0 # teaching time in minutes
 exercises: 0 # exercise time in minutes
 ---
 
-:::::::::::::::::::::::::::::::::::::: questions 
-
-- How do you write a lesson using Markdown and `{sandpaper}`?
-
-::::::::::::::::::::::::::::::::::::::::::::::::
-
 ::::::::::::::::::::::::::::::::::::: objectives
 
 After following this episode, learners will be able to:
