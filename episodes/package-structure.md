@@ -17,9 +17,8 @@ After following this episode, learners will be able to:
 
 ## Package structure
 
-::::::::::::::::::::::::::::::::::::: challenge 
-
-## Challenge 1: Can you do it?
+::: challenge 
+## Challenge 1: 
 
 Please indicate which essential file(s) are missing in the following Python package structure:
 ```
@@ -27,8 +26,7 @@ Please indicate which essential file(s) are missing in the following Python pack
    src/mypackage/hello.py
    pyproject.toml
 ```
-:::::::::::::::::::::::: solution 
-
+::: solution 
 ### Answer
  
 ```output
@@ -36,12 +34,11 @@ Please indicate which essential file(s) are missing in the following Python pack
 Bonus points for `LICENSE`, `CHANGELOG`,
 `doc` directory with documentation.
 ```
+:::
 
-:::::::::::::::::::::::::::::::::
-::::::::::::::::::::::::::::::::::::::::::::::::
+:::
 
-
-::::::::::::::::::::::::::::::::::::: challenge 
+::: challenge 
 ## Challenge 2: 
 
 The following simple Python program prints "Hello World!". Can you create a function instead that prints "Hello World!" when you call the function `hello_world()`.
@@ -50,8 +47,7 @@ print('Hello World!')
 ```
 Where would you save the hello.py file for this program?
 
-:::::::::::::::::::::::: solution 
-
+::: solution 
 ### Answer 
 
 ```
@@ -60,10 +56,9 @@ def hello_world():
     return
 ```
 Save it in ``src/mypackage/hello.py``.
+:::
 
-:::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::::::::::
+:::
 
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
