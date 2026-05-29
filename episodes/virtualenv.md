@@ -13,6 +13,8 @@ exercises: 0 # exercise time in minutes
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
+::::::::::::::::::::::::::::::::::::: objectives
+
 * Describe what virtual environment are
 * Explain the benefits of using them,
 * Know how to use them
@@ -20,8 +22,6 @@ exercises: 0 # exercise time in minutes
     * Activate/deactivate a virtual environment
     * Install/uninstall software inside the virtual environment
     * Get a list of all the Python packages that are available (installed)
-
-::::::::::::::::::::::::::::::::::::: objectives
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
