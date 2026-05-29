@@ -29,6 +29,24 @@ exercises: 0 # exercise time in minutes
 
 Bla bla bla
 
+::: challenge
+
+**Select the correct answer(s).** There may be more than one correct answer.
+
+* When software has been installed inside a virtual environment, it can be used:
+  1. by everyone, always
+  2. once the virtual environment has been activated
+  3. after one has logged in to the system
+  4. when running inside a Python shell
+
+::: solution
+
+  2: once the virtual environment has been activated
+
+:::
+
+:::
+
 ::::::::::::::::::::::::::::::::::::: keypoints 
 
 - Use a virtual environement to have an isolated sandbox
