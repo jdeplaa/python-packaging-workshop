@@ -68,8 +68,8 @@ contact: 'j.de.plaa@sron.nl' # FIXME
 # Order of episodes in your lesson
 episodes: 
 - introduction.md
-- virtualenv.md
 - package-structure.md
+- virtualenv.md
 
 # Information for Learners
 learners: 
