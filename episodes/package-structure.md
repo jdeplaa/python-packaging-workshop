@@ -4,12 +4,6 @@ teaching: 0 # teaching time in minutes
 exercises: 0 # exercise time in minutes
 ---
 
-:::::::::::::::::::::::::::::::::::::: questions 
-
-- How do you write a lesson using Markdown and `{sandpaper}`?
-
-::::::::::::::::::::::::::::::::::::::::::::::::
-
 ::::::::::::::::::::::::::::::::::::: objectives
 
 After following this episode, learners will be able to:
@@ -23,7 +17,6 @@ After following this episode, learners will be able to:
 
 ## Package structure
 
-
 ::::::::::::::::::::::::::::::::::::: challenge 
 
 ## Challenge 1: Can you do it?
@@ -33,6 +26,7 @@ Please indicate which essential file(s) are missing in the following Python pack
    src/mypackage/hello.py
    pyproject.toml
 ```
+::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::: solution 
 
@@ -44,7 +38,7 @@ Please indicate which essential file(s) are missing in the following Python pack
 
 :::::::::::::::::::::::::::::::::
 
-
+::::::::::::::::::::::::::::::::::::: challenge 
 ## Challenge 2: 
 
 The following simple Python program prints "Hello World!". Can you create a function instead that prints "Hello World!" when you call the function `hello_world()`.
@@ -52,6 +46,8 @@ The following simple Python program prints "Hello World!". Can you create a func
 print('Hello World!')
 ```
 Where would you save the hello.py file for this program?
+
+:::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::: solution 
 
